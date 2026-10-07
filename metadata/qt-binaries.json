@@ -1,0 +1,128 @@
+[
+  {
+    "configuration": "Release",
+    "file": "Qt6Core.dll",
+    "version": "6.11.2.0",
+    "sha256": "ca2f4b1e73456a8d8189b5b87a0fb3d25c7b00b61a4f35f59451e8b548b54d1b",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "Qt6Gui.dll",
+    "version": "6.11.2.0",
+    "sha256": "ed9644def99ef43600faf36250f2ead173c8b3d42efbf5498581848984ea1236",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "Qt6Network.dll",
+    "version": "6.11.2.0",
+    "sha256": "f0eb03c1800a76b7095416c83a18806c55c6e8198307ca37028ae208f137853b",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "Qt6Widgets.dll",
+    "version": "6.11.2.0",
+    "sha256": "3b8aabf35dfc4125a6d55c2f76ec098efa4cdc7ae23b118f70f7cc6418f72580",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "platforms/qwindows.dll",
+    "version": "6.11.2.0",
+    "sha256": "687dff36f0249d3393104180062563116a14797102c345fe0ddae85fc179879e",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "styles/qmodernwindowsstyle.dll",
+    "version": "6.11.2.0",
+    "sha256": "860491b85b73ea3a6a024f08dfc570b7a9b7d3e7ec68b67f31af41aa5c8157ae",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "imageformats/qgif.dll",
+    "version": "6.11.2.0",
+    "sha256": "b8d6925b011b3ca755db268f37e99cf4601049dc903f8cbeaf4007b1e05ac974",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "imageformats/qico.dll",
+    "version": "6.11.2.0",
+    "sha256": "2dbc583f8367edd23b621f6144b3e8668feac561a11c93fc5f108596021dc28a",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Release",
+    "file": "imageformats/qjpeg.dll",
+    "version": "6.11.2.0",
+    "sha256": "e32541b39fd6f1d7fb3ab133e5b6ff7484391f4b5372c3d5f709ad5c3ee39bc8",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "Qt6Cored.dll",
+    "version": "6.11.2.0",
+    "sha256": "ed9c43ef5e38b61eac7c3daa3e8a37b736f5109b7d8319dff4051ffa3109c35e",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "Qt6Guid.dll",
+    "version": "6.11.2.0",
+    "sha256": "3a9b3af15bb1642f3ec12d6c3c935a30ecb45fa43096afbd700464ca04547b93",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "Qt6Networkd.dll",
+    "version": "6.11.2.0",
+    "sha256": "99e1d1573249215acb725c066c9aff6cbb725b05002875f638506f40b0e15cc6",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "Qt6Widgetsd.dll",
+    "version": "6.11.2.0",
+    "sha256": "08b83e7e2a2deaa058329f0e432d9cc0a62a27c5c40c553dfa6d413d965b0a57",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "platforms/qwindowsd.dll",
+    "version": "6.11.2.0",
+    "sha256": "2a3a8fe489ac8c5826d93a4c806ac4095faba13a1950df856a595a1a0cfbecf4",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "styles/qmodernwindowsstyled.dll",
+    "version": "6.11.2.0",
+    "sha256": "15bfa00b55689f060f90c92c4806bce2046876ff6c8d1cce01949838ada3fa55",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "imageformats/qgifd.dll",
+    "version": "6.11.2.0",
+    "sha256": "faf362f96301a6876efc29485138408854b456ae34b9ea5d51500bd6673b1937",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "imageformats/qicod.dll",
+    "version": "6.11.2.0",
+    "sha256": "a2213709485bec7c4ee8ead9a1a52a617964350e04f4e744acfea8bd428e4004",
+    "matchesInstalledQt": true
+  },
+  {
+    "configuration": "Debug",
+    "file": "imageformats/qjpegd.dll",
+    "version": "6.11.2.0",
+    "sha256": "01b750e9be445ea81b3fa0a576e3eabc4356e519e8f7d698a167233922501cb4",
+    "matchesInstalledQt": true
+  }
+]
